@@ -139,6 +139,8 @@ Source builds require the bundled `node-routeros` compatibility patch. If startu
 
 For a production-style deployment on an external Docker host such as an R5S that connects to a MikroTik hEX S over the RouterOS API, see `docs/deploy-r5s.md` and the ready-to-copy files in `deploy/r5s/`.
 
+For a single end-to-end runbook with zero-to-working steps for the `R5S` plus the exact RouterOS commands for a `MikroTik hEX S`, see `docs/install-r5s-hexs.md`.
+
 ---
 
 ## RouterOS Setup
